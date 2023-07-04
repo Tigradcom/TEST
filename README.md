@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bp4gbs6qgj5tihye?svg=true)](https://ci.appveyor.com/project/Tigradcom/test)
